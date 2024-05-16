@@ -266,19 +266,19 @@ p {
 }
 
 *::-moz-selection {
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
   text-shadow: none;
 }
 
 ::selection {
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
   text-shadow: none;
 }
@@ -350,7 +350,7 @@ p {
 }
 
 .pink-bg {
-  background: #2467EC;
+  background: #d80516;
 }
 
 .white-bg {
@@ -386,7 +386,7 @@ p {
 }
 
 .theme-color {
-  color: #2467EC !important;
+  color: #d80516 !important;
 }
 
 .black-color {
@@ -434,7 +434,7 @@ p {
   position: relative;
   font-size: 15px;
   font-weight: 500;
-  color: #2467EC;
+  color: #d80516;
   text-transform: uppercase;
   padding-right: 15px;
 }
@@ -476,7 +476,7 @@ p {
 .link-btn-2 {
   position: relative;
   font-size: 14px;
-  color: #2467EC;
+  color: #d80516;
   font-weight: 500;
   padding-right: 22px;
   display: inline-block;
@@ -506,7 +506,7 @@ p {
   right: 0;
 }
 .link-btn-2:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .link-btn-2:hover i:first-child {
   right: 0;
@@ -519,10 +519,10 @@ p {
   opacity: 0;
 }
 .link-btn-2.pink {
-  color: #2467EC;
+  color: #d80516;
 }
 .link-btn-2.pink:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 /* pulse btn */
@@ -536,11 +536,11 @@ p {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  color: #2467EC;
+  color: #d80516;
   animation: pulse 2s infinite;
 }
 .pulse-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
 }
 .pulse-btn i {
@@ -580,7 +580,7 @@ p {
   font-size: 16px;
   font-weight: 600;
   color: #ffffff;
-  background-color: #2467EC;
+  background-color: #d80516;
   padding: 0 40px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -608,7 +608,7 @@ p {
   text-align: center;
   font-size: 16px;
   font-weight: 600;
-  color: #2467EC;
+  color: #d80516;
   background-color: transparent;
   padding: 0 30px;
   border: 1px solid #dce8fe;
@@ -622,9 +622,9 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .edu-sec-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
-  border-color: #2467EC;
+  border-color: #d80516;
 }
 
 .edu-border-btn {
@@ -634,7 +634,7 @@ p {
   text-align: center;
   font-size: 16px;
   font-weight: 600;
-  color: #2467EC;
+  color: #d80516;
   background-color: transparent;
   padding: 0 30px;
   border: 1px solid #dce8fe;
@@ -648,9 +648,9 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .edu-border-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
-  border-color: #2467EC;
+  border-color: #d80516;
 }
 .edu-border-btn:focus {
   border: 1px solid #dce8fe;
@@ -673,7 +673,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .edu-thard-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
 }
 
@@ -698,9 +698,9 @@ p {
   border: 1px solid transparent;
 }
 .edu-four-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
-  border-color: #2467EC;
+  border-color: #d80516;
 }
 
 .edu-five-btn {
@@ -711,7 +711,7 @@ p {
   font-size: 16px;
   font-weight: 600;
   color: #ffffff;
-  background-color: #2467EC;
+  background-color: #d80516;
   padding: 0 40px;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -744,7 +744,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .edu-six-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
   border: 1px solid #ffffff;
 }
@@ -756,10 +756,10 @@ p {
   text-align: center;
   font-size: 16px;
   font-weight: 600;
-  color: #2467EC;
+  color: #d80516;
   background-color: transparent;
   padding: 0 40px;
-  border: 1px solid #2467EC;
+  border: 1px solid #d80516;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -767,7 +767,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .edo-theme-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
   border-color: transparent;
 }
@@ -779,7 +779,7 @@ p {
   height: 40px;
   line-height: 40px;
   padding: 0 30px;
-  color: #2467EC;
+  color: #d80516;
   font-size: 16px;
   font-weight: 600;
   border: 1px solid #DCE8FE;
@@ -791,7 +791,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .blog-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
 }
 
@@ -812,7 +812,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .edo-course-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -829,7 +829,7 @@ p {
   font-size: 16px;
   font-weight: 600;
   color: #ffffff;
-  background-color: #2467EC;
+  background-color: #d80516;
   padding: 0px 25px;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -844,7 +844,7 @@ p {
 
 .course-btn {
   height: 40px;
-  background: #2467EC;
+  background: #d80516;
   padding: 0 25px;
   display: inline-block;
   line-height: 40px;
@@ -861,7 +861,7 @@ p {
   height: 45px;
   padding: 0 45px;
   display: inline-block;
-  background-color: #2467EC;
+  background-color: #d80516;
   line-height: 45px;
   border-radius: 4px;
   font-size: 15px;
@@ -895,7 +895,7 @@ p {
   height: 45px;
   padding: 0 45px;
   display: inline-block;
-  background-color: #2467EC;
+  background-color: #d80516;
   line-height: 45px;
   border-radius: 4px;
   font-size: 15px;
@@ -933,8 +933,8 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .c-share-btn:hover {
-  background: #2467EC;
-  border-color: #2467EC;
+  background: #d80516;
+  border-color: #d80516;
   color: #ffffff;
 }
 
@@ -957,19 +957,19 @@ p {
   border: 1px solid #dce8fe;
 }
 .wishlist-btn:hover {
-  border-color: #2467EC;
-  color: #2467EC;
+  border-color: #d80516;
+  color: #d80516;
 }
 .wishlist-btn.w-added {
-  background: #2467EC;
-  border-color: #2467EC;
+  background: #d80516;
+  border-color: #d80516;
   color: #ffffff;
 }
 
 .edu-follow-btn {
   height: 50px;
   padding: 0 40px 0 60px;
-  background: #2467EC;
+  background: #d80516;
   display: block;
   line-height: 50px;
   border-radius: 3px;
@@ -1036,7 +1036,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .share-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   border-color: transparent;
 }
 .share-btn:hover i {
@@ -1059,13 +1059,13 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .membership-btn-active:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
 }
 
 .membership-btn {
   height: 55px;
-  background: #2467EC;
+  background: #d80516;
   display: block;
   line-height: 55px;
   text-align: center;
@@ -1101,16 +1101,16 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .get-btn:hover {
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
-  border-color: #2467EC;
+  border-color: #d80516;
 }
 
 .video-cart-btn {
   height: 55px;
   padding: 0px 20px;
   display: inline-block;
-  background-color: #2467EC;
+  background-color: #d80516;
   line-height: 55px;
   border-radius: 4px;
   font-size: 16px;
@@ -1147,7 +1147,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .video-wishlist-btn:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
 }
 .video-wishlist-btn i {
@@ -1156,7 +1156,7 @@ p {
 
 .cont-btn {
   height: 55px;
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
   text-align: center;
   width: 150px;
@@ -1179,7 +1179,7 @@ p {
   height: 55px;
   line-height: 53px;
   color: #ffffff;
-  background: #2467EC;
+  background: #d80516;
   border-radius: 4px;
   font-weight: 600;
   padding: 0 20px;
@@ -1362,7 +1362,7 @@ p {
   font-weight: 600;
 }
 .dropdown-category ul li a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .item-has-children {
@@ -1433,7 +1433,7 @@ p {
   right: 20px;
   transform: translatey(-50%);
   top: 50%;
-  color: #2467EC;
+  color: #d80516;
 }
 
 @media (max-width: 575px) {
@@ -1454,7 +1454,7 @@ p {
   top: -9px;
   width: 20px;
   height: 20px;
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
   text-align: center;
   line-height: 20px;
@@ -1477,7 +1477,7 @@ p {
   font-weight: 600;
 }
 .user-btn-sign-in:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .user-btn-content {
@@ -1522,7 +1522,7 @@ p {
   visibility: hidden;
   width: 240px;
   z-index: 9;
-  border-top: 3px solid #2467EC;
+  border-top: 3px solid #d80516;
   text-align: left;
   padding: 15px 0;
 }
@@ -1550,7 +1550,7 @@ p {
   position: relative;
 }
 .main-menu ul li .sub-menu li a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .main-menu ul li .sub-menu li a:before {
   width: 100%;
@@ -1558,10 +1558,10 @@ p {
   right: auto;
 }
 .main-menu ul li:hover a {
-  color: #2467EC;
+  color: #d80516;
 }
 .main-menu ul li:hover.menu-item-has-children::after {
-  color: #2467EC;
+  color: #d80516;
 }
 .main-menu ul li:hover > .sub-menu {
   opacity: 1;
@@ -1621,7 +1621,7 @@ p {
 
 .header-top-icon i {
   margin-right: 10px;
-  color: #2467EC;
+  color: #d80516;
 }
 .header-top-icon a {
   position: relative;
@@ -1638,7 +1638,7 @@ p {
   }
 }
 .header-top-icon a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .header-top-icon span {
   font-size: 14px;
@@ -1661,7 +1661,7 @@ p {
   font-weight: 600;
 }
 .header-user-login span a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .header-social a {
@@ -1708,11 +1708,11 @@ p {
   margin-bottom: 5px;
 }
 .header-menu-top-icon a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .header-menu-top-icon i {
   margin-right: 10px;
-  color: #2467EC;
+  color: #d80516;
 }
 
 .header-right-icon a {
@@ -1740,7 +1740,7 @@ p {
 }
 
 .header-university-top-area {
-  background-color: #2467EC;
+  background-color: #d80516;
   padding: 12px 0;
   line-height: 1;
 }
@@ -1907,7 +1907,7 @@ p {
   content: "";
   background: #ffffff;
   transform: translateY(-50%);
-  color: #2467EC;
+  color: #d80516;
   font-size: 14px;
 }
 
@@ -2179,8 +2179,8 @@ div.mean-container a.meanmenu-reveal {
 .cart-minus:hover {
   cursor: pointer;
   color: #ffffff;
-  background: #2467EC;
-  border-color: #2467EC;
+  background: #d80516;
+  border-color: #d80516;
 }
 
 .cart-input {
@@ -2240,7 +2240,7 @@ div.mean-container a.meanmenu-reveal {
 
 ----------*/
 .hero-text h5 {
-  color: #2467EC;
+  color: #d80516;
   font-size: 18px;
   margin-bottom: 25px;
 }
@@ -2328,7 +2328,7 @@ div.mean-container a.meanmenu-reveal {
   }
 }
 .section-title h2 a {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .shape.shape-1 {
@@ -2476,7 +2476,7 @@ div.mean-container a.meanmenu-reveal {
   margin-bottom: 0;
 }
 .shape-5 span {
-  color: #2467EC;
+  color: #d80516;
   font-weight: 700;
   text-align: center;
 }
@@ -2660,7 +2660,7 @@ div.mean-container a.meanmenu-reveal {
   top: 50%;
   right: 23px;
   transform: translatey(-50%);
-  color: #2467EC;
+  color: #d80516;
 }
 
 .slider-course-content ul li {
@@ -2818,7 +2818,7 @@ div.mean-container a.meanmenu-reveal {
   font-weight: 400;
 }
 .hero-shap-5 span {
-  color: #2467EC;
+  color: #d80516;
   font-weight: 700;
   text-align: center;
 }
@@ -3130,9 +3130,9 @@ div.mean-container a.meanmenu-reveal {
   transition: all 0.3s ease-out 0s;
 }
 .catagory-wrapper:hover {
-  background-color: #2467EC;
+  background-color: #d80516;
   box-shadow: 0px 40px 40px rgba(24, 44, 74, 0.1);
-  border-color: #2467EC;
+  border-color: #d80516;
 }
 .catagory-wrapper .catagory-thumb {
   margin-right: 22px;
@@ -3242,8 +3242,8 @@ div.mean-container a.meanmenu-reveal {
   }
 }
 .category-button-prev:hover {
-  border-color: #2467EC;
-  background: #2467EC;
+  border-color: #d80516;
+  background: #d80516;
   color: #ffffff;
 }
 
@@ -3268,8 +3268,8 @@ div.mean-container a.meanmenu-reveal {
   }
 }
 .category-button-next:hover {
-  border-color: #2467EC;
-  background: #2467EC;
+  border-color: #d80516;
+  background: #d80516;
   color: #ffffff;
 }
 
@@ -3351,7 +3351,7 @@ div.mean-container a.meanmenu-reveal {
 }
 
 .student-choose-list i.far {
-  color: #2467EC;
+  color: #d80516;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
@@ -3388,7 +3388,7 @@ div.mean-container a.meanmenu-reveal {
   left: 45%;
   height: 151px;
   width: 150px;
-  background: #2467EC;
+  background: #d80516;
   border-radius: 8px;
   z-index: -1;
 }
@@ -3536,7 +3536,7 @@ div.mean-container a.meanmenu-reveal {
 }
 .testimonial-body h3 {
   font-size: 20px;
-  color: #2467EC;
+  color: #d80516;
   margin-bottom: 20px;
 }
 
@@ -3655,7 +3655,7 @@ div.mean-container a.meanmenu-reveal {
 .partner-text p span {
   font-size: 24px;
   font-weight: 700;
-  color: #2467EC;
+  color: #d80516;
 }
 
 /*----------
@@ -3815,7 +3815,7 @@ div.mean-container a.meanmenu-reveal {
   line-height: 1.5;
 }
 .blog-content h3:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .blog-content h3 {
@@ -3849,7 +3849,7 @@ div.mean-container a.meanmenu-reveal {
   position: absolute;
   top: 20px;
   left: 20px;
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
   padding: 0 15px;
   font-size: 13px;
@@ -3942,7 +3942,7 @@ div.mean-container a.meanmenu-reveal {
   }
 }
 .rc__title a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .sidebar__widget {
@@ -3981,10 +3981,10 @@ div.mean-container a.meanmenu-reveal {
   border-radius: 50%;
 }
 .sidebar__category ul li a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .sidebar__category ul li a:hover::after {
-  background: #2467EC;
+  background: #d80516;
 }
 
 .sidebar__tag a {
@@ -4004,7 +4004,7 @@ div.mean-container a.meanmenu-reveal {
 }
 .sidebar__tag a:hover {
   color: #ffffff;
-  background: #2467EC;
+  background: #d80516;
 }
 
 blockquote {
@@ -4026,7 +4026,7 @@ blockquote::before {
   position: static;
   font-family: "Font Awesome 5 Pro";
   font-size: 32px;
-  color: #2467EC;
+  color: #d80516;
   line-height: 1;
   margin-bottom: 18px;
   display: inline-block;
@@ -4055,7 +4055,7 @@ blockquote cite::before {
   color: #ff5421;
   padding-bottom: 0px;
   display: inline-block;
-  background: #2467EC;
+  background: #d80516;
   height: 2px;
   width: 40px;
   font-weight: 400;
@@ -4094,7 +4094,7 @@ div.tagcloud a {
 
 div.tagcloud a:hover {
   color: #ffffff;
-  background: #2467EC;
+  background: #d80516;
 }
 
 .blog__details__tag span {
@@ -4190,7 +4190,7 @@ div.tagcloud a:hover {
 }
 .comments-replay a {
   display: inline-block;
-  color: #2467EC;
+  color: #d80516;
   background: rgba(43, 78, 255, 0.1);
   height: 25px;
   line-height: 25px;
@@ -4203,7 +4203,7 @@ div.tagcloud a:hover {
 }
 .comments-replay a:hover {
   color: #ffffff;
-  background: #2467EC;
+  background: #d80516;
 }
 
 .blog__comment h3 {
@@ -4237,7 +4237,7 @@ div.tagcloud a:hover {
 }
 .blog__comment-input input:focus, .blog__comment-input textarea:focus {
   background: #ffffff;
-  border-color: #2467EC;
+  border-color: #d80516;
 }
 .blog__comment-input textarea {
   height: 180px;
@@ -4266,7 +4266,7 @@ div.tagcloud a:hover {
 }
 .blog__comment-agree input:checked {
   position: relative;
-  background-color: #2467EC;
+  background-color: #d80516;
   border-color: transparent;
 }
 .blog__comment-agree input:checked::after {
@@ -4296,7 +4296,7 @@ div.tagcloud a:hover {
   padding-left: 4px;
 }
 .blog__comment-agree label a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .blog__comment-agree label:hover {
   cursor: pointer;
@@ -4446,7 +4446,7 @@ div.tagcloud a:hover {
 
 .university-course-box {
   padding: 42px 48px 42px 48px;
-  background: #2467EC;
+  background: #d80516;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .university-course-box {
@@ -4593,7 +4593,7 @@ div.tagcloud a:hover {
 .etablist-price {
   height: 160px;
   width: 160px;
-  background: #2467ec;
+  background: #d80516;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -4776,7 +4776,7 @@ div.tagcloud a:hover {
 }
 .compus-content ul li i {
   margin-right: 10px;
-  color: #2467EC;
+  color: #d80516;
 }
 .compus-content p {
   margin-bottom: 25px;
@@ -4904,7 +4904,7 @@ div.tagcloud a:hover {
 }
 .event-arrow:hover {
   color: #ffffff;
-  background: #2467EC;
+  background: #d80516;
 }
 
 .feedback-header {
@@ -4926,7 +4926,7 @@ div.tagcloud a:hover {
   font-size: 18px;
   font-weight: 700;
   margin-bottom: 20px;
-  color: #2467EC;
+  color: #d80516;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
@@ -4989,7 +4989,7 @@ div.tagcloud a:hover {
 .event_date_inner h4 {
   font-size: 24px;
   font-weight: 900;
-  color: #2467EC;
+  color: #d80516;
   font-family: "Nunito Sans", sans-serif;
 }
 .event_date_inner span {
@@ -5112,7 +5112,7 @@ div.tagcloud a:hover {
 }
 
 .find-event-input i {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .find-event-wrapper {
@@ -5371,7 +5371,7 @@ div.tagcloud a:hover {
   background: #ffffff;
   line-height: 70px;
   border-radius: 50%;
-  color: #2467EC;
+  color: #d80516;
   font-size: 18px;
   animation: pulse 2s infinite;
   text-align: center;
@@ -5573,7 +5573,7 @@ div.tagcloud a:hover {
   color: #a7aaaf;
 }
 .user-icon a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .user-icon i {
   margin-right: 8px;
@@ -5666,11 +5666,11 @@ div.tagcloud a:hover {
 }
 
 .cart-info-body h3:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .cart-lavel span {
-  color: #2467EC;
+  color: #d80516;
   font-size: 15px;
   font-weight: 600;
 }
@@ -5694,7 +5694,7 @@ div.tagcloud a:hover {
 }
 .info-cart-text ul i {
   margin-right: 15px;
-  color: #2467EC;
+  color: #d80516;
 }
 
 .course-action {
@@ -5760,7 +5760,7 @@ div.tagcloud a:hover {
 .browser-course-content span {
   margin-bottom: 10px;
   display: block;
-  color: #2467EC;
+  color: #d80516;
   font-weight: 700;
 }
 @media (max-width: 575px) {
@@ -5833,7 +5833,7 @@ div.tagcloud a:hover {
   line-height: 1.5;
 }
 .eduman-course-text h3 a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), (max-width: 575px), only screen and (min-width: 768px) and (max-width: 991px) {
   .eduman-course-text h3 {
@@ -5851,7 +5851,7 @@ div.tagcloud a:hover {
   margin-bottom: 25px;
 }
 .eduman-course-price span {
-  color: #2467EC;
+  color: #d80516;
   font-size: 18px;
   font-weight: 800;
   margin-right: 5px;
@@ -5863,7 +5863,7 @@ div.tagcloud a:hover {
   font-weight: 600;
 }
 .eduman-course-tutor a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .eduman-course-tutor img {
   margin-right: 10px;
@@ -5880,7 +5880,7 @@ div.tagcloud a:hover {
 }
 
 .course-deteals-btn a {
-  color: #2467EC;
+  color: #d80516;
 }
 .course-deteals-btn a:hover {
   color: #141517;
@@ -6140,7 +6140,7 @@ div.tagcloud a:hover {
   }
 }
 .academic-content-header h3:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .academic-tutor {
@@ -6155,7 +6155,7 @@ div.tagcloud a:hover {
   color: #141517;
 }
 .academic-tutor a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .academic-footer {
@@ -6215,7 +6215,7 @@ div.tagcloud a:hover {
   align-items: center;
 }
 .portfolio-price span {
-  color: #2467EC;
+  color: #d80516;
   font-weight: 900;
   font-size: 16px;
   text-transform: uppercase;
@@ -6240,7 +6240,7 @@ div.tagcloud a:hover {
   }
 }
 .student-course-text h3 a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .course-creadit {
@@ -6462,7 +6462,7 @@ div.tagcloud a:hover {
   margin-right: 15px;
 }
 .edu-pagination li:hover a {
-  color: #2467EC;
+  color: #d80516;
   font-weight: 600;
 }
 .edu-pagination i {
@@ -6479,13 +6479,13 @@ div.tagcloud a:hover {
   transition: 0.3s;
 }
 .edu-pagination i:hover {
-  border-color: #2467EC;
-  background: #2467EC;
+  border-color: #d80516;
+  background: #d80516;
   color: #ffffff;
 }
 
 .edu-pagination ul li.active a {
-  color: #2467EC;
+  color: #d80516;
   font-weight: 600;
 }
 
@@ -6506,7 +6506,7 @@ div.tagcloud a:hover {
 
 .course-sidebar-list input[type=checkbox]:checked {
   border: none;
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
 }
 
@@ -6542,7 +6542,7 @@ div.tagcloud a:hover {
   left: 4px;
   height: 8px;
   width: 8px;
-  background: #2467EC;
+  background: #d80516;
   border-radius: 50%;
 }
 
@@ -6787,7 +6787,7 @@ div.tagcloud a:hover {
   content: "\f00c";
   font-family: "Font Awesome 5 Pro";
   left: 0px;
-  color: #2467EC;
+  color: #d80516;
 }
 
 .instructors-heading {
@@ -6993,7 +6993,7 @@ div.tagcloud a:hover {
 }
 
 .course-apply-coupon a {
-  color: #2467EC;
+  color: #d80516;
   font-weight: 700;
 }
 .course-apply-coupon a:hover {
@@ -7011,7 +7011,7 @@ div.tagcloud a:hover {
   content: "";
   height: 1px;
   width: 100%;
-  background: #2467EC;
+  background: #d80516;
   bottom: 0;
 }
 
@@ -7019,7 +7019,7 @@ div.tagcloud a:hover {
   position: relative;
 }
 .course-gift-coupon:hover::before {
-  background-color: #2467EC;
+  background-color: #d80516;
 }
 .course-gift-coupon:before {
   position: absolute;
@@ -7035,7 +7035,7 @@ div.tagcloud a:hover {
   font-weight: 700;
 }
 .course-gift-coupon a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .course-curriculum-info h4 {
@@ -7241,7 +7241,7 @@ div.tagcloud a:hover {
   position: absolute;
   height: 3px;
   width: 100%;
-  background: #2467EC;
+  background: #d80516;
   content: "";
   left: 0;
   opacity: 0;
@@ -7259,7 +7259,7 @@ div.tagcloud a:hover {
   position: absolute;
   width: 13px;
   height: 5px;
-  background: #2467EC;
+  background: #d80516;
   content: "";
   bottom: -5px;
   left: 0;
@@ -7352,8 +7352,8 @@ div.tagcloud a:hover {
   transform: 0.3s;
 }
 .member-social ul li a:hover {
-  background: #2467EC;
-  border-color: #2467EC;
+  background: #d80516;
+  border-color: #d80516;
   color: #ffffff;
 }
 
@@ -7464,11 +7464,11 @@ div.tagcloud a:hover {
   color: #575757;
 }
 .course-instructors-img ul li a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .course-instructors-img ul li a i {
   font-size: 16px;
-  color: #2467EC;
+  color: #d80516;
   display: inline-block;
   margin-right: 4px;
   transform: translateY(1px);
@@ -7718,7 +7718,7 @@ div.tagcloud a:hover {
 }
 
 .sign-check a {
-  color: #2467EC;
+  color: #d80516;
   font-weight: 700;
   text-decoration: underline;
 }
@@ -7747,7 +7747,7 @@ div.tagcloud a:hover {
 .sign-button .sign-btn,
 .sing-buttom button {
   height: 55px;
-  background: #2467EC;
+  background: #d80516;
   text-align: center;
   line-height: 55px;
   color: #ffffff;
@@ -7771,7 +7771,7 @@ div.tagcloud a:hover {
 }
 
 .forget-password a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .not-register a:hover {
@@ -7783,7 +7783,7 @@ div.tagcloud a:hover {
 }
 .acount-login a {
   font-weight: 600;
-  color: #2467EC;
+  color: #d80516;
   margin-left: 5px;
   text-decoration: underline;
 }
@@ -7832,7 +7832,7 @@ div.tagcloud a:hover {
 
 .not-register a {
   font-weight: 600;
-  color: #2467EC;
+  color: #d80516;
   text-decoration: revert;
   margin-left: 5px;
 }
@@ -8240,7 +8240,7 @@ div.tagcloud a:hover {
 }
 .shop-quick-view ul li a:hover,
 .shop-quick-view ul li span:hover {
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
 }
 .shop-quick-view ul li a:hover i,
@@ -8956,7 +8956,7 @@ p.checkout-coupon input[type=text]:focus {
 .product-side-info .product-price {
   font-size: 20px;
   font-weight: 700;
-  color: #2467EC;
+  color: #d80516;
 }
 
 .product-side-info p {
@@ -9088,7 +9088,7 @@ p.checkout-coupon input[type=text]:focus {
   content: "";
   width: 0%;
   height: 1px;
-  background: #2467EC;
+  background: #d80516;
   bottom: 0;
   left: 0;
   right: 0;
@@ -9100,7 +9100,7 @@ p.checkout-coupon input[type=text]:focus {
   content: "";
   width: 100%;
   height: 1px;
-  background: #2467EC;
+  background: #d80516;
   bottom: 0;
   left: 0;
   right: 0;
@@ -9122,7 +9122,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 
 .product-details-nav .nav-item.active {
-  color: #2467EC;
+  color: #d80516;
   font-weight: 600;
 }
 
@@ -9176,7 +9176,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 
 .pricing-tab .nav .nav-item .nav-link.active {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .pricing-tab .nav .nav-item .nav-link.active::after {
@@ -9197,7 +9197,7 @@ p.checkout-coupon input[type=text]:focus {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  background: #2467EC;
+  background: #d80516;
   z-index: 1;
 }
 
@@ -9220,7 +9220,7 @@ p.checkout-coupon input[type=text]:focus {
   -webkit-border-radius: 11px;
   -moz-border-radius: 11px;
   border-radius: 20px;
-  border: 1px solid #2467EC;
+  border: 1px solid #d80516;
 }
 
 .pricing-tab .nav .nav-item:last-child .nav-link::before {
@@ -9254,7 +9254,7 @@ p.checkout-coupon input[type=text]:focus {
 .membership-info span {
   font-size: 28px;
   font-weight: 900;
-  color: #2467EC;
+  color: #d80516;
 }
 
 .membership-price p {
@@ -9269,7 +9269,7 @@ p.checkout-coupon input[type=text]:focus {
   margin-bottom: 5px;
 }
 .membership-list ul li i {
-  color: #2467EC;
+  color: #d80516;
   margin-right: 15px;
 }
 
@@ -9360,7 +9360,7 @@ p.checkout-coupon input[type=text]:focus {
   }
 }
 .zooom-class-tittle h3 a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .zooom-class-tittle {
@@ -9374,7 +9374,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .class-metting a {
   font-weight: 700;
-  color: #2467EC;
+  color: #d80516;
   margin-left: 10px;
 }
 
@@ -9534,7 +9534,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 
 .edu-calender .huicalendar.huicalendar1.huicalendar2 td.enabled {
-  color: #2467EC;
+  color: #d80516;
   cursor: pointer;
   font-size: 15px;
   font-weight: bold;
@@ -9620,9 +9620,9 @@ p.checkout-coupon input[type=text]:focus {
   position: relative;
 }
 .faq-question-item:hover {
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
-  border-color: #2467EC;
+  border-color: #d80516;
   box-shadow: 0px 40px 40px rgba(24, 44, 74, 0.1);
 }
 .faq-question-item a {
@@ -9680,7 +9680,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 
 .faq-nav-tab .nav-tabs .nav-link.active {
-  background-color: #2467EC;
+  background-color: #d80516;
   color: #ffffff;
 }
 
@@ -9813,7 +9813,7 @@ p.checkout-coupon input[type=text]:focus {
   border-radius: 8px;
 }
 .faq-suppoert ul li a {
-  color: #2467EC;
+  color: #d80516;
   font-size: 16px;
   font-weight: 600;
   text-decoration: underline;
@@ -9844,16 +9844,16 @@ p.checkout-coupon input[type=text]:focus {
   margin-bottom: 8px;
 }
 .sidebar-topic-list ul li a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .payment-method-info a {
-  color: #2467EC;
+  color: #d80516;
   font-weight: 600;
 }
 
 .contact-btn {
-  background: #2467EC;
+  background: #d80516;
   border-radius: 4px;
   color: #ffffff;
   font-weight: 600;
@@ -10123,7 +10123,7 @@ p.checkout-coupon input[type=text]:focus {
   }
 }
 .footer-icon a:hover {
-  background: #2467EC;
+  background: #d80516;
 }
 
 .copyright-area {
@@ -10160,7 +10160,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 14px;
 }
 .copy-right-support span {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .copy-right-svg {
@@ -10227,7 +10227,7 @@ p.checkout-coupon input[type=text]:focus {
   right: 10px;
   height: 50px;
   width: 160px;
-  background: #2467EC;
+  background: #d80516;
   border-radius: 5px;
   color: #ffffff;
   font-weight: 600;
@@ -10281,7 +10281,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #ffffff;
 }
 .copyright-text span {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .border-line::after {
@@ -10424,7 +10424,7 @@ p.checkout-coupon input[type=text]:focus {
   display: inline-block;
 }
 .university-footer-icon a:hover {
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
 }
 
@@ -10487,7 +10487,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #a2a2a2;
 }
 .footer-copyright-left p span {
-  color: #2467EC;
+  color: #d80516;
   margin-left: 10px;
   font-size: 18px;
 }
@@ -10545,7 +10545,7 @@ p.checkout-coupon input[type=text]:focus {
   }
 }
 .sub-footer-text span a {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .student-profile-author {
@@ -10596,10 +10596,10 @@ p.checkout-coupon input[type=text]:focus {
   min-width: 22px;
 }
 .student-profile-sidebar .nav li button.active {
-  color: #2467EC;
+  color: #d80516;
 }
 .student-profile-sidebar .nav li button.active i {
-  color: #2467EC;
+  color: #d80516;
 }
 
 .student-profile-content {
@@ -10771,13 +10771,13 @@ p.checkout-coupon input[type=text]:focus {
   content: "";
   height: 2px;
   width: 0%;
-  background: #2467EC;
+  background: #d80516;
   left: 0px;
   bottom: 0px;
   transition: all linear 0.3s;
 }
 .student-profile-enroll ul li .nav-link.active {
-  color: #2467EC;
+  color: #d80516;
 }
 .student-profile-enroll ul li .nav-link.active:before {
   width: 100%;
@@ -10982,7 +10982,7 @@ p.checkout-coupon input[type=text]:focus {
   line-height: 1.25;
 }
 .edu-webinar-text-title:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .edu-webinar-text ul {
   display: flex;
@@ -10997,7 +10997,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #575757;
 }
 .edu-webinar-text ul li i {
-  color: #2467EC;
+  color: #d80516;
   margin-right: 5px;
   transform: translateY(-1px);
 }
@@ -11008,7 +11008,7 @@ p.checkout-coupon input[type=text]:focus {
   padding: 0px 10px;
   font-size: 12px;
   font-weight: 600;
-  background: #2467EC;
+  background: #d80516;
   display: inline-block;
   color: #ffffff;
   border-top-right-radius: 5px;
@@ -11019,11 +11019,11 @@ p.checkout-coupon input[type=text]:focus {
   padding: 0px 25px;
   line-height: 40px;
   background: none;
-  color: #2467EC;
-  border: 1px solid #2467EC;
+  color: #d80516;
+  border: 1px solid #d80516;
 }
 .edu-webinar .edu-btn:hover {
-  background: #2467EC;
+  background: #d80516;
   color: #ffffff;
 }
 
@@ -11055,16 +11055,16 @@ p.checkout-coupon input[type=text]:focus {
   display: block;
   line-height: 36px;
   text-align: center;
-  background: #2467EC;
+  background: #d80516;
   width: 38px;
   height: 38px;
   border-radius: 100%;
-  border: 1px solid #2467EC;
+  border: 1px solid #d80516;
   outline: none;
 }
 .product__modal-close button:hover {
   background: #ffffff;
-  color: #2467EC;
+  color: #d80516;
 }
 .product__modal-wrapper {
   padding: 20px;
@@ -11113,8 +11113,8 @@ p.checkout-coupon input[type=text]:focus {
 }
 .product__modal-links ul li a:hover {
   color: #ffffff;
-  background: #2467EC;
-  border-color: #2467EC;
+  background: #d80516;
+  border-color: #d80516;
 }
 .product__modal .nav-tabs {
   border: none;
@@ -11131,7 +11131,7 @@ p.checkout-coupon input[type=text]:focus {
   display: none;
 }
 .product__modal .nav-link.active {
-  border-color: #2467EC !important;
+  border-color: #d80516 !important;
 }
 .product__modal .nav-link.active::after {
   position: absolute;
@@ -11144,7 +11144,7 @@ p.checkout-coupon input[type=text]:focus {
   transform: translateX(-50%);
   border: 6px solid transparent;
   border-top-color: transparent;
-  border-bottom-color: #2467EC;
+  border-bottom-color: #d80516;
 }
 .product__modal-form .product-quantity .cart-plus-minus input {
   height: 60px;
@@ -11191,7 +11191,7 @@ p.checkout-coupon input[type=text]:focus {
   background: #141517;
 }
 .product__add-review span a:hover {
-  color: #2467EC;
+  color: #d80516;
 }
 .product__add-review span:last-child a::after {
   display: none;
